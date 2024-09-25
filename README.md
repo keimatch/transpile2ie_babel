@@ -5,5 +5,5 @@
 # Build
 `npm build`
 
-# Build with Minifu
+# Build with Minify
 `npm build:minify`
